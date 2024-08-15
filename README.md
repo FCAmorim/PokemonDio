@@ -1,8 +1,8 @@
 # PokemonDio
-Conteúdo relativo ao projeto de criar um jogo de pokemon NFT.
+Conteúdo relativo ao projeto de criar um jogo de pokemon NFT e a pasta com código utilizado.
 
 
-Link dos pokemons no IFPS:
+Link dos pokemons no IFPS: <br>
 https://ipfs.io/ipfs/QmVVHUoAXyDyGM4Dc22pqRZ5yyvhCfekUV9zJrjyyXUt56?filename=rayquaza.png
 https://ipfs.io/ipfs/Qmeh7RpAFHn6aET8DM2Wm2R98Dsenv9tGoEHBHrPzizqjs?filename=palkia.jpg
 https://ipfs.io/ipfs/QmWvjGepGQdoRzsS4E3aMMbFrK2VV1fPD5o3t7MQynktgW?filename=mew.png
